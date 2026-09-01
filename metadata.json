@@ -1,0 +1,6 @@
+{
+  "name": "OptiImage",
+  "description": "Image compressor utility that converts public image URLs to highly optimized Base64 strings and Blob objects for seamless React and Next.js frontend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
